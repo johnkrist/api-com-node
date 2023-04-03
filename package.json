@@ -1,0 +1,22 @@
+{
+  "name": "api-com-node",
+  "version": "1.0.0",
+  "description": "implementação de uma api simples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnkrist/api-com-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnkrist/api-com-node/issues"
+  },
+  "homepage": "https://github.com/johnkrist/api-com-node#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
